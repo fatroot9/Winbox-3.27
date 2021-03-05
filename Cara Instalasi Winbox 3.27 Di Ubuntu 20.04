@@ -1,0 +1,9 @@
+Downloads Winbox Di https://mikrotik.com/download
+Open Terminal CTRL+ALT+T
+Update sudo apt-get update or sudo apt update
+sudo su
+Instalai Wine apt-get wine or sudo apt-get wine
+cd Downloads/
+ls -l
+Open Winbox wine winbox64.exe or wine winbox32.exe
+Finish
